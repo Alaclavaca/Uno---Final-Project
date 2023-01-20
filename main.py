@@ -1,7 +1,3 @@
-#I was unable to complete this to function with cards including skips, draw twos, or wilds but I included
-#my half-completed code reguardless. It's not much, but I hope it's worth something.
-
-
 import random
 
 deck = ["Red 0", "Red 1", "Red 2", "Red 3", "Red 4", "Red 5", "Red 6", "Red 7", "Red 8", "Red 9",
